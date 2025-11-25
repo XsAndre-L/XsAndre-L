@@ -8,7 +8,7 @@
 - 🥅 2022 Goals: Master Full Stack Web Development with Angular and Nestjs, docker, Redis, MySQL
 - 🥅 2023 Goals: Work as a Full Stack dev for Candide in Nestjs, and Angular and improve the craft
 - 🥅 2024 Goals: Learn Unreal Engine From the ground up get the basics and everything in-between as muscle memory
-- 🥅 2025 Goals: Pending...
+- 🥅 2025 Goals: Release CodeFrame, The Modern Cpp Toolchain You didn't know you needed.
 
 ### My Links
 - 🔥 [Website](https://www.xtremestudios.org/)
